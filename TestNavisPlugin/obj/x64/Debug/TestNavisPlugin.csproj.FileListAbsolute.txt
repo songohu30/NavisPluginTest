@@ -1,0 +1,16 @@
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\bin\x64\Debug\TestNavisPlugin.dll
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\bin\x64\Debug\TestNavisPlugin.pdb
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\bin\x64\Debug\Autodesk.Navisworks.Api.dll
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\bin\x64\Debug\Autodesk.Navisworks.Api.xml
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\obj\x64\Debug\TestNavisPlugin.csproj.AssemblyReference.cache
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\obj\x64\Debug\TestNavisPlugin.csproj.CoreCompileInputs.cache
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\obj\x64\Debug\TestNavisPlugin.csproj.CopyComplete
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\obj\x64\Debug\TestNavisPlugin.dll
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\obj\x64\Debug\TestNavisPlugin.pdb
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\bin\x64\Debug\Autodesk.Navisworks.ComApi.dll
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\bin\x64\Debug\Autodesk.Navisworks.ComApi.xml
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\obj\x64\Debug\InfoWindow.g.cs
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\obj\x64\Debug\TestNavisPlugin_MarkupCompile.cache
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\obj\x64\Debug\TestNavisPlugin_MarkupCompile.lref
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\obj\x64\Debug\InfoWindow.baml
+C:\Users\mtrawczynski\source\repos\TestNavisPlugin\TestNavisPlugin\obj\x64\Debug\TestNavisPlugin.g.resources
